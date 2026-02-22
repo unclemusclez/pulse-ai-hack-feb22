@@ -9,4 +9,4 @@
 	url = https://github.com/unclemusclez/frontend.git
 [submodule "agentic_loop"]
 	path = agentic_loop
-	url = https://github.com/unclemusclez/pulse-ai-hack-feb22-agentic_loop.git
+	url = https://github.com/unclemusclez/pulse-ai-hack-feb22_agentic_loop.git
