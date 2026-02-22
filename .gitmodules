@@ -4,3 +4,9 @@
 [submodule "data-schemas"]
 	path = data-schemas
 	url = ./data-schemas
+[submodule "frontend"]
+	path = frontend
+	url = ./frontend
+[submodule "agentic_loop"]
+	path = agentic_loop
+	url = ./agentic_loop
