@@ -3,10 +3,10 @@
 	url = https://github.com/pulse-ai-nyc/Hackathon-5.git
 [submodule "data-schemas"]
 	path = data-schemas
-	url = ./data-schemas
+	url = https://github.com/unclemusclez/pulse-ai-hack-feb22-data-schemas.git
 [submodule "frontend"]
 	path = frontend
-	url = ./frontend
+	url = https://github.com/unclemusclez/frontend.git
 [submodule "agentic_loop"]
 	path = agentic_loop
-	url = ./agentic_loop
+	url = https://github.com/unclemusclez/pulse-ai-hack-feb22-agentic_loop.git
