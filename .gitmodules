@@ -1,0 +1,6 @@
+[submodule "Hackathon-5"]
+	path = Hackathon-5
+	url = https://github.com/pulse-ai-nyc/Hackathon-5.git
+[submodule "data-schemas"]
+	path = data-schemas
+	url = ./data-schemas
